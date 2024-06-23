@@ -1,0 +1,118 @@
+
+  /*CONTACTO*/
+
+ 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  /* Main Section */
+  main {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  main h1 {
+    margin-bottom: 2rem;
+    color: #343a40;
+  }
+  
+  /* Contact Section */
+  .contacto-main {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .contacto-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .contacto-form .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .contacto-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #343a40;
+  }
+  
+  .contacto-form .form-control {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contacto-form .form-control:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .contacto-form textarea.form-control {
+    resize: vertical;
+  }
+  
+  .contacto-form .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .contacto-form .btn:hover {
+    background-color: #0056b3;
+  }
+  
+
+  /*HOME*/
+
+/* Styles.css */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+  /* Home Section */
+  .home-main {
+    padding: 2rem;
+  }
+  
+  .hero-section {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+  }
+  
+  .hero-section p {
+    font-size: 1.25rem;
+    color: #6c757d;
+    margin-top: 0.5rem;
+  }
+  
+
+/*HOME 2*/
+
